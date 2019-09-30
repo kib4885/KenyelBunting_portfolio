@@ -1,6 +1,6 @@
 body {
-  font-family: 'Kaushan Script', cursive;
-    font-size: 18px;
+  font-family: 'Mr Bedfort', cursive;
+    font-size: 130px;
     line-height: 34px;
     color: #777777;
     background: url("../images/tiny-squares.png");
@@ -10,10 +10,16 @@ body {
     box-sizing: border-box;
   }
 
+  .center-text{
+    margin: auto;
+    width: 50%;
+   padding: 10px;
+   font-size: 35px;
+  }
   h1,
   h2,
   h3 {
-    font-family: 'Kaushan Script', cursive;
+    font-family: 'Ranga', cursive;
     font-weight: 700;
     color: #4aaaa5;
   }
@@ -64,7 +70,7 @@ body {
     float:left;
     width: 250px;
     height: 90px;
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: 'Mr Bedfort', cursive;
     font-size: 30px;
     font-weight: 700;
     line-height: 90px;
@@ -107,6 +113,31 @@ body {
     margin-bottom: 40px
   }
 
+  #mcontainer-3
+{
+    max-width: 960px;
+    padding: 20px;
+    /* background: #ffffff; */
+    /* border: 1px solid #dddddd; */
+    margin: auto;
+    /* margin-top: 30px; */
+    /* margin-bottom: 40px */
+  }
+
+  #mcontainer-4
+  {
+      max-width: 960px;
+      padding: 20px;
+      /* background: #ffffff; */
+      /* border: 1px solid #dddddd; */
+      margin: auto;
+      /* margin-top: 30px; */
+      /* margin-bottom: 40px */
+    }
+
+  .fa-github-square:before{
+margin-right: 15px;
+  }
 #profile-image{
    float: left;
     width: 200px;
@@ -156,7 +187,7 @@ p {
   animation-duration: 3s;
   animation-name: slidein;
   /* font-family: 'Kaushan Script', cursive; */
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Ranga', cursive;
   font-weight: bold;
   font-size: 20px;
 }
