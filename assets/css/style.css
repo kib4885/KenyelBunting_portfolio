@@ -224,7 +224,9 @@ p {
 
 }
 
-
+#icon {
+  height: auto;
+}
  #footer{
         padding: 30px 0;
         clear: both;
