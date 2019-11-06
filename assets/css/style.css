@@ -137,7 +137,16 @@ body {
 
   .fa-github-square:before{
 margin-right: 15px;
+color: #4aaaa5;
   }
+.fa-linkedin:before{
+margin-right: 15px;
+color: #4aaaa5;
+      }
+.fa-envelope:before{
+/* margin-right: 15px; */
+color: #4aaaa5;
+          }
 #profile-image{
    float: left;
     width: 200px;
