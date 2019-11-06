@@ -213,6 +213,18 @@ p {
   }
 }
 
+.card-title{
+  font-size: 26px;
+  color: #4aaaa5;
+  text-align: center;
+}
+.btn-primary{
+  background-color: #4aaaa5;
+  border-color: #4aaaa5;
+
+}
+
+
  #footer{
         padding: 30px 0;
         clear: both;
