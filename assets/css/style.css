@@ -63,7 +63,7 @@ body {
     background: #ffffff;
     border-bottom: 2px solid #cccccc;
     margin: auto;
-    margin-top: 15px
+    margin-top: 15px;
   }
 
 #logo {
@@ -117,6 +117,7 @@ body {
 {
     max-width: 960px;
     padding: 20px;
+    padding-bottom: 49px;
     /* background: #ffffff; */
     /* border: 1px solid #dddddd; */
     margin: auto;
